@@ -64,7 +64,7 @@ Main pageContentsCurrent eventsRandom articleAbout WikipediaContact us
 	
 
 
-HelpLearn to editCommunity portalRecent changesUpload file
+HelpLearn to editCommunity portalRecent changesUpload fileSpecial pages
 
 
 
@@ -640,7 +640,7 @@ ReadEditView history
 	
 
 
-What links hereRelated changesUpload fileSpecial pagesPermanent linkPage informationCite this pageGet shortened URLDownload QR code
+What links hereRelated changesUpload filePermanent linkPage informationCite this pageGet shortened URLDownload QR code
 
 
 

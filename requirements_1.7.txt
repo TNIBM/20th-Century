@@ -1,0 +1,10 @@
+numpy==1.20.3
+pandas==1.5.1
+pyvis == 0.3.1
+seaborn == 0.12.1
+cdlib
+spacy == 3.4.3
+networkx == 2.8.8
+matplotlib == 3.5.3
+scipy == 1.9.3
+leidenalg
