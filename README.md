@@ -49,7 +49,8 @@ This repository presents a thorough analysis of the relationships between countr
 ## Requirements
 To run the project, the following libraries are required:
 - `Python==3.10`
-
++ [Requirements files](https://github.com/TNIBM/20th-Century/tree/main/Requirements)
+ 
 ## Conclusion
 This project offers significant insights into the historical relationships between countries in the 20th century. 
 By exploring the roles and connections of various nations, researchers can enhance their geopolitical analyses and policy recommendations. 
