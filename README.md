@@ -46,6 +46,9 @@ This repository presents a thorough analysis of the relationships between countr
 
 - **Centrality Plots**: Bar charts displaying the countries with the highest degree and closeness centrality scores.
 
+## Visualization of 20th Century Geopolitical Analysis (NLP application output)
+Click [here](https://drive.google.com/file/d/1l270Gk35ADIM3xqPavVgE2v7xH0CONLO/view?usp=sharing)
+
 ## Requirements
 To run the project, the following libraries are required:
 - `Python==3.10`
