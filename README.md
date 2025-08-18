@@ -1,7 +1,5 @@
 # 20th Century Geopolitical Network Analysis
 
-
-## 20th Century Geopolitical Analysis
 Data Visualization with Python: Constructing a Historical Network Analysis
 
 ## Objective
