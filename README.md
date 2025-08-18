@@ -1,10 +1,10 @@
 # 20th Century Geopolitical Network Analysis:
 
 
-20th Century Geopolitical Analysis
+## 20th Century Geopolitical Analysis
 Data Visualization with Python: Constructing a Historical Network Analysis
 
-Objective
+## Objective
 
 The Institute for Public Policy seeks a comprehensive analysis and visualization of international relationships during the 20th century. In light of the instability of global politics during this period, the Institute aims to explore historical connections between nations to support its research.
 The Institute for Public Policy requires a comprehensive analysis and visualization of the relationships between nations during the 20th century. Given the instability of global politics, the Institute seeks to explore historical connections between countries to aid its research.
